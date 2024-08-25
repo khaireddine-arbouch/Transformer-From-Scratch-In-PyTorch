@@ -6,6 +6,7 @@ This repository provides an implementation of the Transformer model from scratch
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Notes](#notes)
 - [Installation](#installation)
 
 ## Introduction
@@ -18,6 +19,10 @@ The Transformer model, introduced in the paper ["Attention is All You Need"](htt
 - **Educational Focus**: Written with clarity in mind, with comments and explanations throughout the code to facilitate learning.
 - **Customizable**: Easily modify and experiment with different configurations of the Transformer model.
 - **Dependencies**: Built using PyTorch, making it easy to integrate with other PyTorch projects.
+
+## Notes
+
+- ["My Notion Notes"](https://shorturl.at/j9twY)
 
 ## Installation
 

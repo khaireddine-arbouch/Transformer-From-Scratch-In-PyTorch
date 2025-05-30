@@ -22,7 +22,7 @@ The Transformer model, introduced in the paper ["Attention is All You Need"](htt
 
 ## Notes
 
-- ["My Notion Notes"]([https://shorturl.at/j9twY](https://22khair.notion.site/The-Transformer-Model-Architecture-1e4b3e45fddb802690f8f19227cf23b8))
+- ["My Notion Notes"](https://22khair.notion.site/The-Transformer-Model-Architecture-1e4b3e45fddb802690f8f19227cf23b8)
 
 ## Installation
 
